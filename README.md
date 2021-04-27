@@ -97,7 +97,7 @@ This homework is graded based on the following criteria:
 
 ### Application Quality: 11%
 
-* Application console is free of errors.
+* Application console is free of errrs.
 
 
 ### Repository Quality: 13%
