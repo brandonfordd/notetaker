@@ -1,0 +1,44 @@
+html, body {
+    background-color:#484b4d ;
+}
+
+nav {
+    background-color: #292b2c;
+    color: white;
+}
+
+.jumbotron {
+    background-color: rgb(133, 133, 133);
+    animation: animated-border 5s infinite;
+}
+
+/*gradient text colors */
+.linear-wipe {
+/* text-align: center; */
+
+background: linear-gradient(to right, rgba(251, 186, 5, 0.671) 20%, rgba(251, 186, 5, 0.671) 40%, white 60%, white 80%);
+background-size: 200% auto;
+
+
+background-clip: text;
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+
+animation: shine 10s linear infinite;
+}
+@keyframes shine {
+    to {
+      background-position: 200% center;
+    }
+}
+
+
+@keyframes animated-border {
+  0% {
+    box-shadow: 0 0 0 0 rgba(251, 186, 5, 0.671);
+  }
+  100% {
+     box-shadow: 0 0 50px 5px rgba(255,255,255,0);
+  }
+}
+
