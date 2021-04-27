@@ -41,8 +41,10 @@ fs.readFile("db/db.json", "utf8", (err, data) => {
         //push new note to notes object
         notes.push(newNote);
 
+        // add variable to number id's
         let number = 1
 
+        // forEach function to add a new index called id and assign numbers to each, then return new notes json
         notes.forEach((note, index) => {
           note.id = number;
           number++;
