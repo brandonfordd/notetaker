@@ -1,7 +1,5 @@
 # 11 Express.js: Note Taker
 
-![Badge for GitHub](https://img.shields.io/github/languages/top/brandonfordd/readme_generator?style=flat&logo=appveyor)
-
 ## Table of Contents
 * [Description](#description)
 * [Acceptance](#acceptance)
@@ -9,7 +7,6 @@
 * [Usage](#usage)
 * [Contributing](#contributing)
 * [Tests](#tests)
-* [License](#license)
 
 ## Description
 
@@ -74,8 +71,6 @@ brandonfordd
 There are no test for this application
 
 ## Questions?
-![Developer Profile Picture](https://avatars.githubusercontent.com/u/78278104?v=4) 
-
 For any questions, please contact me with the information below:
 
 GitHub: [@brandonfordd](https://api.github.com/users/brandonfordd)
