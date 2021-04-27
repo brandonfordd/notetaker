@@ -69,7 +69,7 @@ SO THAT I can organize my thoughts and keep track of tasks I need to complete
 brandonfordd
 ```
 ## Tests
-There are no test for this application
+![GIF](https://github.com/brandonfordd/notetaker/blob/main/public/assets/gifs/notetaker_preview.gif?raw=true)
 
 ## Questions?
 For any questions, please contact me with the information below:
