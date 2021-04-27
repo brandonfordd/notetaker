@@ -95,7 +95,6 @@ nav {
 /*gradient text colors */
 .linear-wipe {
 /* text-align: center; */
-
 background: linear-gradient(to right, rgba(251, 186, 5, 0.671) 20%, rgba(251, 186, 5, 0.671) 40%, white 60%, white 80%);
 background-size: 100% auto;
 
